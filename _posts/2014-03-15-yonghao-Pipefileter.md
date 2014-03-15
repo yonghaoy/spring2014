@@ -9,6 +9,7 @@ date: 2014-03-15
 
 One senior software engineer tole me Linux system is a life skill for programmer. I have been learning linux command for a while. 
 But I just use linux command to compile, makefile, SSH etc. This exercise make me learn another cool things about Linux.
+I learn more knowledge about shell command. In challenge 4, I try meself then I found I got a wrong answer before.
 
 ## Challenge
 
@@ -36,7 +37,6 @@ The command `uniq -u` will Print only Unique Lines. OR we can `sort salmon.txt| 
 2012-11-05,raccoon
 2012-11-06,rabbit
 2012-11-06,deer
-
 ```
 `tail -3` get the last three lines of the 5 lines above:
 
@@ -52,7 +52,6 @@ The command `uniq -u` will Print only Unique Lines. OR we can `sort salmon.txt| 
 2012-11-06,rabbit
 2012-11-06,deer
 2012-11-05,raccoon
-
 ```
 
 **C5**
